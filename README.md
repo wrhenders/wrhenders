@@ -6,6 +6,7 @@
 * 🔭 I’m currently working on a project to create a finance dashboard to keep an eye on market moves and the treasury yield curve
      * This project uses a Python Flask backend with a Typescript React frontend
      * ![Image](https://i.ibb.co/xmqv2dp/Screenshot-1.png)
+     * ![Image](https://i.ibb.co/pW8gMkz/Screenshot-3.png)
 
 
 
