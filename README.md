@@ -7,8 +7,8 @@
      * This project uses a Python Flask backend with a Typescript React frontend
     
     
-     * ![Image](https://i.ibb.co/xmqv2dp/Screenshot-1.png)
-     * ![Image](https://i.ibb.co/pW8gMkz/Screenshot-3.png)
+     * ![Image](https://i.ibb.co/K65ZNRp/Screenshot-2022-05-17-at-09-00-09-Finance-Dashboard.png)
+     * ![Image](https://i.ibb.co/HxXzM9L/Screenshot-2022-05-17-at-09-00-29-Finance-Dashboard.png)
 
 
 
