@@ -2,8 +2,8 @@
 
 ### I am making a change from running a group of restaurants to learning and growing as a software engineer.
 
-* 🌱 I’m currently learning Solidity to get some hands on experience in the web3 world
-* 🔭 I’m currently working on a project to create a finance dashboard to keep an eye on market moves and the treasury yield curve
+* 🌱 I’m currently taking an AWS Essentials Course and a Docker class
+* 💬 Ask me about my personal finance project I built to keep an eye on market moves alongside the treasury yield curve
      * This project uses a Python Flask backend with a Typescript React frontend
     
     
