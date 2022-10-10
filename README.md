@@ -2,7 +2,7 @@
 
 ### I am making a change from running a group of restaurants to learning and growing as a software engineer.
 
-* 🌱 I’m currently taking an AWS Essentials Course and practicing my skills in Docker
+* 🌱 I’m currently learning Kotlin and Android Development
 * 💬 Ask me about my personal finance project I built to keep an eye on market moves alongside the treasury yield curve
      * This project uses a Python Flask backend with a Typescript React frontend
     
