@@ -2,7 +2,10 @@
 
 ### I am making a change from running a group of restaurants to learning and growing as a software engineer.
 
-* 🌱 I’m currently learning Kotlin and Android Development
+* 🌱 I’m currently learning Mobile Development
+    * I am building a kitchen volume to weight recipe conversion tool in Kotlin for Android, pinned below
+    * Also building a small business app in Swift for iOS
+
 * 💬 Ask me about my personal finance project I built to keep an eye on market moves alongside the treasury yield curve
      * This project uses a Python Flask backend with a Typescript React frontend
     
